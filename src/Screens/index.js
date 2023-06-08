@@ -1,0 +1,7 @@
+export { default as Dashboard } from "./Dashboard"
+export { default as Expenses } from "./Expenses"
+export { default as Orders } from "./Orders"
+export { default as Patients } from "./Patients"
+export { default as Sales } from "./Sales"
+export { default as Schedules } from "./Schedules"
+export { default as Analytics } from "./Analytics"
